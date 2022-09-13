@@ -8,7 +8,7 @@ void main() {
 
   mainCommon(
     FlavorConfig()
-      ..appTitle = "Beans Factory"
+      ..appTitle = "Coffee Page"
       ..apiEndpoint = {
         Endpoints.items: "random.api.dev/items",
         Endpoints.details: "random.api.dev/item"

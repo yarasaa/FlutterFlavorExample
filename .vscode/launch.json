@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Coffee-Flavor",
+        "program": "lib/main_coffee.dart",
+        "request": "launch",
+        "type": "dart",
+        "args": [
+            "--flavor",
+            "coffee"
+        ]
+      },
+      {
+        "name": "Cookie-Flavor",
+        "program": "lib/main_cookie.dart",
+        "request": "launch",
+        "type": "dart",
+        "args": [
+            "--flavor",
+            "cookie"
+        ]
+      }
+    ]
+  }

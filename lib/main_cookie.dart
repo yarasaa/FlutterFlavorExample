@@ -8,7 +8,7 @@ void main() {
 
   mainCommon(
     FlavorConfig()
-      ..appTitle = "Munchy Crunchy"
+      ..appTitle = "Cookie Page"
       ..imageLocation = "assets/images/munchy_crunchy.jpg"
       ..apiEndpoint = {
         Endpoints.items: "api.munchycrunchy.dev/items",
